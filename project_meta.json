@@ -1,10 +1,17 @@
 {
-  "seq": 37,
   "title": "Privacy Act and Notifiable Data Breaches Readiness Assessment for an SME",
-  "slug": "privacy-act-and-notifiable-data-breaches-readiness-asse",
+  "old_slug": "privacy-act-and-notifiable-data-breaches-readiness-asse",
+  "slug": "privacy-act-ndb-readiness",
   "folder": "Privacy_Act_And_Notifiable_Data_Breaches_Readiness",
   "kind": "privacy",
-  "body_words": 245,
+  "body_words": 315,
+  "source": "SCI700",
   "project_id": "Project 23",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
